@@ -8,7 +8,7 @@ I was never a good player in the past -- barely knowing how to move the pieces s
 
 # The first game
 
-Metti partita di Albino.
+Metti partita semplice.
 
 ## Lesson learned
 
